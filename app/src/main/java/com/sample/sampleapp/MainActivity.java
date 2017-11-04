@@ -10,9 +10,6 @@ import android.util.Log;
 import android.app.Activity;
 import android.content.Intent;
 
-import com.sample.sampleapp.R;
-import com.sample.sampleapp.SubActivity;
-
 public class MainActivity extends Activity {
 
     private TextView textView;
